@@ -1,2 +1,5 @@
-# hello-world
-Este repositorio es para practicar el flujo de GitHub
+# Hello world
+
+- 🏃 Empezando con el curso de ciberseguridad de 4geeks para reconducir mi camino laboral 😛
+
+
